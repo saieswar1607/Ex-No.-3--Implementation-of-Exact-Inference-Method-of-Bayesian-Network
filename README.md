@@ -24,10 +24,6 @@ Print the results.<br>
 
 ## Program :
 ```
-Name: Sai Eswar Kandukuri
-Reg.No:212221240020
-```
-```
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.inference import VariableElimination
